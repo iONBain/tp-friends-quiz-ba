@@ -19,6 +19,6 @@ Here are a few project-related insight pictures:
 * Chalk (for CSS)
 * readline-sync
 
-> Platform userd to develop project :-
+> Platform used to develop project :-
 * [Replit](https://replit.com/)
 
