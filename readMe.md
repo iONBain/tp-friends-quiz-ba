@@ -15,7 +15,7 @@ Here are a few project-related insight pictures:
 ![landingpage](./images/output4.png)
 
 > Technologies/Libraries used :-
-* Vanilla Javascript
+* NodeJS
 * Chalk (for CSS)
 * readline-sync
 
